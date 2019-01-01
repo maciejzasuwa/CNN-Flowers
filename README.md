@@ -11,7 +11,7 @@ test_vgg16.py	- python code to test the cnn
 
 train_vgg16.py	- python code to train the cnn
 
-## Additional resources of files:
+## Additional resources:
 
 Some more files (too big to upload them here) are needed. They can be downloaded here:
 
