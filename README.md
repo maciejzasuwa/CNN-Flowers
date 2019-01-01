@@ -5,7 +5,7 @@ Convolutional Neural Network to recognize over 100 species of flowers
 
 cat_to_name.json - the list of the species that are recognized by the cnn
 
-helper.py	- dependency needed for the main files
+helper.py	- import needed for the main files
 
 test_vgg16.py	- python code to test the cnn 
 
