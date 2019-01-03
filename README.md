@@ -1,5 +1,5 @@
 # CNN-Flowers
-Convolutional Neural Network to recognize over 100 species of flowers
+Convolutional Neural Network to recognize over 100 species of flowers. This project uses PyTorch library. VGG16 network was used.
 
 ## Description of files:
 
